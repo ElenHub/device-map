@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1",
+    "name": "Устройство 1",
+    "lat": 55.7558,
+    "lon": 37.6173,
+    "model": "basic",
+    "status": "on",
+    "children": [
+      {
+        "id": "1-1",
+        "name": "Дочернее устройство 1",
+        "lat": 55.756,
+        "lon": 37.6175,
+        "model": "advanced",
+        "status": "off"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Устройство 2",
+    "lat": 55.757,
+    "lon": 37.615,
+    "model": "special",
+    "status": "off"
+  }
+]
